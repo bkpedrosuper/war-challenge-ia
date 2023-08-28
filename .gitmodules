@@ -1,6 +1,8 @@
 [submodule "war-challenge-computer-vision"]
 	path = war-challenge-computer-vision
 	url = https://github.com/bkpedrosuper/war-challenge-computer-vision.git
+	branch = main
 [submodule "war-challenge-ml"]
 	path = war-challenge-ml
 	url = https://github.com/bkpedrosuper/war-challenge-ml.git
+	branch = main
