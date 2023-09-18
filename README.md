@@ -7,3 +7,10 @@ This repository has submodules attached to it. To clone this repository and all 
 ```
 git clone --recurse-submodules https://github.com/bkpedrosuper/war-challenge-ia.git
 ```
+
+
+RESULTADO:
+Segundo lugar no ABii Challenge 2023
+
+Vídeo em Anexo
+Obs: Nosso time era o roxo
